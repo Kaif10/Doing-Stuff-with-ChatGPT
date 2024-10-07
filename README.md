@@ -2,4 +2,4 @@
 
 Inspired by the ChatGPT course on DeepLearning.ai.
 
-Work in Progress
+More cool applications ahead...
